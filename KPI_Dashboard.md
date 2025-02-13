@@ -79,6 +79,12 @@ The indicators are **adaptable** to the specific needs of each project, providin
 
 ---
 
+📌 **Important Note**:  
+The **Provento-Manager** system is developed entirely in **Portuguese** to serve its target audience.  
+However, documentation and explanations are available in **English** for international understanding.  
+
+---
+
 This document serves as a **framework** for understanding how business progress and facilitator engagement are measured in the **Provento-Manager** system. 🚀  
 
 If you have specific **project needs**, our methodology can be fully customized to ensure accurate and relevant performance tracking.  
