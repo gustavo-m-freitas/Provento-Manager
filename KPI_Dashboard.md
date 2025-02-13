@@ -61,6 +61,19 @@ The indicators are **adaptable** to the specific needs of each project, providin
 ✅ **Company-Specific Dashboard** → Individual company progress tracking.  
 ✅ **Individual Indicator Analysis** → Breakdown of Planning, Entrepreneurship, Marketing, and Financial aspects.  
 
+### **1. General Project Indicator**
+![General Project Indicator](docs/images/indicadores1_github.png)  
+*This visualization provides an overview of the project's key performance indicators (KPIs). It summarizes the evolution of participating companies based on pre-defined criteria.*
+
+### **2. Initial vs. Final Indicator Comparison**
+![Initial vs. Final Comparison](docs/images/indicadores2_github.png)  
+*This radar chart compares the initial and final performance of companies in the acceleration program. It highlights growth in key areas such as Planning, Entrepreneurship, Marketing, and Financial management.*
+
+### **3. Average Progress of the Cohort**
+![Average Progress](docs/images/indicadores3_github.png)  
+*This chart displays the average improvement of companies throughout the program. It helps project managers assess the overall effectiveness of the acceleration initiative.*
+
+
 🔎 **Want to explore the project in action?**  
 📩 **Contact us for access and insights!**  
 
