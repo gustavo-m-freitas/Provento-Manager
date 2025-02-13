@@ -72,8 +72,8 @@ Developing **Provento-Manager** reinforced my ability to **translate business ne
 
 ## 📫 Contact  
 
-💼 **LinkedIn:** [linkedin.com/in/gustavomfreitas](https://www.linkedin.com/in/gustavo-m-freitas)  
-📂 **GitHub:** [github.com/gustavomfreitas](https://github.com/gustavo-m-freitas)  
+💼 **LinkedIn:** [linkedin.com/in/gustavo-m-freitas](https://www.linkedin.com/in/gustavo-m-freitas)  
+📂 **GitHub:** [github.com/gustavo-m-freitas](https://github.com/gustavo-m-freitas)  
 📩 **Email:** [gustavo.provento@gmail.com](mailto:gustavo.provento@gmail.com)  
 
 ---
