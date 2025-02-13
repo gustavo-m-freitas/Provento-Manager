@@ -1,7 +1,8 @@
-# 📂 Project Structure - PGESTOR
+# 📂 Project Structure - PGESTOR  
 
-This project follows a Django MVC (Model-View-Controller) architecture, organizing the backend, frontend, and data management into structured modules.
+This project follows a **Django MVC (Model-View-Controller) architecture**, organizing the backend, frontend, and data management into structured modules.
 
+```bash
 PGESTOR/
 │── carteira/                     # Main Django application
 │   │── migrations/               # Database migration files
@@ -16,7 +17,7 @@ PGESTOR/
 │   │── resources.py               # Import/export utilities
 │   │── tests.py                   # Unit tests for the application
 │   │── urls.py                    # URL routing configuration
-│   │── views.py                   # Business logic and request handling
+│   │── views.py                    # Business logic and request handling
 │
 │── pgestor/                       # Core project configuration folder
 │   │── __init__.py                # Marks this directory as a Python package
@@ -30,4 +31,5 @@ PGESTOR/
 │── db_novo.sqlite3                   # Alternative database file
 │── manage.py                         # Django command-line utility
 │── requirements.txt                   # List of dependencies required for the project
+
 
