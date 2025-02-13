@@ -66,16 +66,14 @@ Developing **Provento-Manager** reinforced my ability to **translate business ne
 ✔ Identify **real business problems** and develop structured solutions.  
 ✔ Implement **a data-driven approach** in business strategy.  
 ✔ Apply my knowledge of **Python, Django, and database management**.  
-✔ Develop **interactive dashboards** for visual analytics.  
-
-It also became an important milestone in my transition to **Data Science and Machine Learning**, demonstrating my ability to **integrate programming with strategic decision-making**.  
+✔ Develop **interactive dashboards** for visual analytics.    
 
 ---
 
 ## 📫 Contact  
 
-💼 **LinkedIn:** [linkedin.com/in/gustavomfreitas](https://www.linkedin.com/in/gustavomfreitas)  
-📂 **GitHub:** [github.com/gustavomfreitas](https://github.com/gustavomfreitas)  
+💼 **LinkedIn:** [linkedin.com/in/gustavomfreitas](https://www.linkedin.com/in/gustavo-m-freitas)  
+📂 **GitHub:** [github.com/gustavomfreitas](https://github.com/gustavo-m-freitas)  
 📩 **Email:** [gustavo.provento@gmail.com](mailto:gustavo.provento@gmail.com)  
 
 ---
