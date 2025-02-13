@@ -70,16 +70,17 @@ Developing **Provento-Manager** reinforced my ability to **translate business ne
 
 ---
 
+### 🚀 Want to see it in action?  
+🔗 **Live Demo:** [gustmf.pythonanywhere.com](https://gustmf.pythonanywhere.com)  
+📌 *This project is hosted on PythonAnywhere, a cloud platform for deploying Python applications.*
+
+---
 ## 📫 Contact  
 
 💼 **LinkedIn:** [linkedin.com/in/gustavo-m-freitas](https://www.linkedin.com/in/gustavo-m-freitas)  
 📂 **GitHub:** [github.com/gustavo-m-freitas](https://github.com/gustavo-m-freitas)  
 📩 **Email:** [gustavo.provento@gmail.com](mailto:gustavo.provento@gmail.com)  
 
----
 
-### 🚀 Want to see it in action?  
-🔗 **Live Demo:** [gustmf.pythonanywhere.com](https://gustmf.pythonanywhere.com)  
 
----
 
