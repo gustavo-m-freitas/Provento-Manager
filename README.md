@@ -4,11 +4,13 @@
 
 ## 📌 Overview  
 
-**Provento-Manager** was developed to address the needs of clients in startup acceleration programs and business mentorship. The application provides a structured and efficient way to manage mentorships, consulting activities, and track business growth through a data-driven approach.  
+**Provento-Manager** was developed to address the needs of clients in startup acceleration programs and business mentorship. While working in **business consulting and startup acceleration**, I noticed a lack of **structured methodologies** for tracking mentorship impact. Many clients relied on spreadsheets and informal processes, leading to inefficiencies in decision-making.  
+
+To solve this, I designed **Provento-Manager**, a practical solution that aligns business strategy with structured data analysis. The application provides a streamlined way to manage mentorships, consulting activities, and track business growth through a data-driven approach.  
 
 With an **interactive dashboard**, companies, mentors, and consultants can efficiently monitor progress, track key performance indicators, and optimize decision-making.  
 
-This project is the result of my experience in **finance, business consulting, and data-driven decision-making**. While my career has evolved into Data Science and Machine Learning, this application reflects my ability to **identify business needs and create structured solutions**, even before becoming deeply technical.  
+This is not just an application—it's a **methodological approach** to improving business acceleration and mentorship programs.  
 
 ---
 
@@ -20,15 +22,7 @@ This project is the result of my experience in **finance, business consulting, a
 ✅ **Event & Attendance Management** → Tracks participation in training sessions, workshops, and networking events.  
 ✅ **User Authentication & Role-Based Access** → Ensures a secure experience for managers, mentors, and startups.  
 
-This project was developed using **Python & Django** and structured to integrate multiple stakeholders into a single **data-driven** platform.  
-
----
-
-## 💡 Why This Project?  
-
-While working with **business consulting and startup acceleration**, I noticed a lack of **structured methodologies** for tracking mentorship impact. Many clients relied on spreadsheets and informal processes. To solve this, I designed **Provento-Manager**, a practical solution that aligns business strategy with structured data analysis.  
-
-This is not just an application—it's a **methodological approach** to improving business acceleration and mentorship programs.  
+This project was developed using **Python & Django**.
 
 ---
 
