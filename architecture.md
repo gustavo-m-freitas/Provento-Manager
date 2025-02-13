@@ -2,6 +2,7 @@
 
 This diagram represents the flow of data and user roles within the system.
 
+```text
           +---------------------+
           |      👤 Gestor       |
           | (Admin - Full Access)|
@@ -48,3 +49,4 @@ This diagram represents the flow of data and user roles within the system.
 | - Runs Django app              |
 | - Provides web access          |
 +--------------------------------+
+
