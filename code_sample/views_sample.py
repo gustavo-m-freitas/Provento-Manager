@@ -108,38 +108,3 @@ def indicators_summary(request):
 
     return render(request, 'dashboard/indicators_summary.html', context)
 
-############################################ Mentors ############################################
-@login_required
-@role_required('Mentor', 'Consultant')
-def mentors_list(request):
-    """View to list all mentors."""
-    mentors = Mentor.objects.all()
-    return render(request, 'dashboard/mentors_list.html', {'mentors': mentors})
-
-@login_required
-@role_required('Mentor')
-def mentors_create(request):
-    """View to register a new mentor."""
-    form = MentorForm(request.POST or None)
-    if form.is_valid():
-        form.save()
-        messages.success(request, "Mentor successfully registered!")
-        return redirect('dashboard:mentors_list')
-    return render(request, 'dashboard/mentors_form.html', {'form': form})
-
-@login_required
-@role_required('Mentor', 'Consultant')
-def mentors_summary(request):
-    """View to summarize mentor performance."""
-    mentors = Mentor.objects.all()
-    
-    mentors_summary = mentors.values('expertise').annotate(
-        total_sessions=Count('mentorshipsession'),
-        avg_hours=Avg('total_hours')
-    ).order_by('expertise')
-
-    context = {
-        'mentors_summary': mentors_summary
-    }
-
-    return render(request, 'dashboard/mentors_summary.html', context)
