@@ -11,6 +11,12 @@ To solve this, I designed **Provento-Manager**, a practical solution that aligns
 With an **interactive dashboard**, companies, mentors, and consultants can efficiently monitor progress, track key performance indicators, and optimize decision-making.  
 
 This is not just an application—it's a **methodological approach** to improving business acceleration and mentorship programs.  
+---
+
+## 📌 About this Repository 
+This repository serves as a **portfolio showcase** rather than a fully open-source project. 
+- **Provento-Manager is a real-world application**, used successfully by clients in business acceleration programs.
+- **The full source code is not available**, as the goal of this repository is to demonstrate my ability to develop structured solutions for real business problems. 
 
 ---
 
