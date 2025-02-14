@@ -22,7 +22,8 @@ This is not just an application—it's a **methodological approach** to improvin
 ✅ **Event & Attendance Management** → Tracks participation in training sessions, workshops, and networking events.  
 ✅ **User Authentication & Role-Based Access** → Ensures a secure experience for managers, mentors, and startups.  
 
-This project was developed using **Python & Django**.
+📌 *Originally developed using **Python & Django** and deployed in real-world business environments.*  
+
 
 ---
 
